@@ -8,5 +8,6 @@ Options:
                                             [number] [required]
   -l, --list     List the multiplication tables
                                       [boolean] [default: true]
-  -u, --until                             [number] [default: 10]
+  -u, --until    Limit of the multiplication tables.                         
+                                        [number] [default: 10]
 ```
